@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(25, 25, 25);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.move-icon{
+    height: 50px;
+}
+.move-icon-button{
+    border: 3px solid white;
+    background: transparent;
+    padding: 30px;
+    border-radius: 80px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.result1{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.result2{
+    color: white;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.score{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.reset-score-button,
+.js-auto-play-button
+{
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    padding: 10px 15px;
+    margin-right: 10px
+}
+
